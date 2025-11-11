@@ -1,11 +1,11 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Uu]ser[Ss]ettings/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+Benisproject/[Ll]ibrary/
+Benisproject/[Tt]emp/
+Benisproject/[Oo]bj/
+Benisproject/[Bb]uild/
+Benisproject/[Bb]uilds/
+Benisproject/[Uu]ser[Ss]ettings/
+Benisproject/[Ll]ogs/
+Benisproject/[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
